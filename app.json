@@ -7,12 +7,12 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=zmYWXLLB#lrVxzQTuaDFgbViac9vaw9SGvgarCNy7W7YkGkqV9kk",
       "required": true
     },  
 
     "MONGODB": {
-      "description": "Put your mongodb url..",
+      "description": "mongodb+srv://DARKSHAN:3000@cluster0.t1wsjlv.mongodb.net",
       "required": true
     }
 },
